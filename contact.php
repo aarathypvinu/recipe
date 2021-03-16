@@ -50,7 +50,7 @@
             <div class="col col-12 col-sm-6 col-lg-6">
                 
                 <p><i><span style="font-size: x-large;">Contact Us</span></i></p>
-                <p><i><span style="font-size: x-large;">NH-66,Sheduppadi, Varapuzha, Kerala</span></i></p>
+                <p><i><span style="font-size: x-large;"> email :tastyworld@gmail.com</span></i></p>
                 <p>MOB : 9123456789</p>
             </div>
         </div>
