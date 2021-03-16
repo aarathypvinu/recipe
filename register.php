@@ -27,7 +27,7 @@
                 <a class="nav-link" href="gallery.php">gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="register.php">for biginners</a>
+                <a class="nav-link" href="register.php">for beginners</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.php">about us</a>
