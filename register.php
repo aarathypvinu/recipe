@@ -46,10 +46,10 @@
   </nav>
   <div class="container">
       <div class="row">
-          <div class="col col-12 col-sm-6 col-6">
+          <div class="col col-12 col-sm-6 col-lg-6 col-xl-6 col-xxl-6">
               <img height="500px" src="https://cdn5.vectorstock.com/i/1000x1000/71/94/cartoon-happy-chef-holding-a-silver-platter-vector-6587194.jpg=" alt="">
           </div>
-          <div class="col col-12 col-sm-6 col-lg-6">
+          <div class="col col-12 col-sm-6 col-lg-6 col-xl-6 col-xxl-6">
               <h2><i>join us!!!</i></h2>
               <table class="table table-borderless">
                   <tr>

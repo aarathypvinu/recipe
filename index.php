@@ -47,7 +47,7 @@
   </nav>
   <div class="container">
       <div class="row">
-          <div class="col col-12 col-sm-6 col-lg-6">
+          <div class="col col-12 col-sm-6 col-lg-6 col-xl-6 col-xxl-6">
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -75,7 +75,7 @@
                 </button>
               </div>
           </div>
-          <div class="col col-12 col-sm-6 col-lg-6">
+          <div class="col col-12 col-sm-6 col-lg-6 col-xl-6 col-xxl-6">
               <h2>Login to tasty world</h2>
               <table class="table table-borderless">
                   <tr>
