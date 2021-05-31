@@ -77,7 +77,7 @@
           </div>
           <div class="col col-12 col-sm-6 col-lg-6">
               <h2>Login to tasty world</h2>
-              <table class="table">
+              <table class="table table-borderless">
                   <tr>
                       <td>Email Id</td>
                       <td><input type="text" class="form-control"></td>
