@@ -54,7 +54,7 @@
               <table class="table table-borderless">
                   <tr>
                       <td>Name</td>
-                      <td><input type="text" class="form-control"></td>
+                      <td><input type="name" class="form-control"></td>
                   </tr>
                   <tr>
                       <td>Email</td>
